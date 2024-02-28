@@ -2,7 +2,7 @@ package Arrays;
 
 /**
  * @BelongsProject: ShuaTi
- * @BelongsPackage: Arrays.LC704
+ * @BelongsPackage: Arrays
  * @Author: qzk
  * @CreateTime: 2024/2/28 22:26
  * @Description: TODO
